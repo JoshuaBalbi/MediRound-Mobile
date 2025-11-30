@@ -1,4 +1,4 @@
-📱 MediRound — iOS Mobile App (Swift)
+# 📱 MediRound — iOS Mobile App (Swift)
 
 A secure, BLE-verified patient safety rounding app for behavioral health units.
 
@@ -7,7 +7,9 @@ Primary Author (Mobile App): Joshua Balbi
 Course: CEN5035 — Software Engineering
 Team: Aramiesha Jackson · Joshua Balbi · Peyton Rivera · Anthony Beatty · Parikshit Chintala
 
-🌟 Overview
+--- 
+
+## 🌟 Overview
 
 The MediRound iOS Mobile App is the staff-facing component of the MediRound ecosystem.
 It enables nurses and mental health technicians to perform patient safety checks using:
