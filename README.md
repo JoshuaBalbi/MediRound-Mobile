@@ -3,8 +3,11 @@
 A secure, BLE-verified patient safety rounding app for behavioral health units.
 
 Part of the MediRound System — Mobile (Swift), Web Dashboard (React), Cloud Backend (Firebase).
+
 Primary Author (Mobile App): Joshua Balbi
+
 Course: CEN5035 — Software Engineering
+
 Team: Aramiesha Jackson · Joshua Balbi · Peyton Rivera · Anthony Beatty · Parikshit Chintala
 
 --- 
