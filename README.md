@@ -1,4 +1,4 @@
-# 📱 MediRound — iOS Mobile App (Swift)
+# 📱 MediRound — iOS Mobile App
 
 A secure, BLE-verified patient safety rounding app for behavioral health units.
 
